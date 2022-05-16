@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=parodoTS&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parodoTS&layout=compact&theme=radical" />
+![](https://github-readme-stats.vercel.app/api?username=parodoTS&show_icons=true&theme=radical&count_private=true)
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parodoTS&layout=compact)-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parodoTS&theme=github_dark)
