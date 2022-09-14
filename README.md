@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=parodoTS&show_icons=true&theme=radical&count_private=true)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parodoTS&layout=compact)-->
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parodoTS&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parodoTS&layout=compact)
